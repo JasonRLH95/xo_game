@@ -1,1 +1,1 @@
-# XO_game
+# xo_game
